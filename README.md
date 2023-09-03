@@ -32,7 +32,7 @@ and tag it with the name `cakephp/docs` by running:
 docker build -t cakephp/docs .
 ```
 
-This can take a little while, because all packages needs to be downloaded, but
+This can take a little while, because all packages need to be downloaded, but
 you'll only need to do this once.
 
 Now that the image is built, you can run all the commands to build the docs:
